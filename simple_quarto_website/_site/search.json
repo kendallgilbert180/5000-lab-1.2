@@ -1,0 +1,170 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "This is my first quarto website. Lab 1.2 for DSAN 5000\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\n\n\nFirst item\nSecond item\nThird item\n\n\n\n\n\n\n\n\n\n\nItem A\nItem B\nItem C\n\n\n\n\n\nItem X\nItem Y\nItem Z\n\n\n\n\n\n\n\n\n\nFirst Name\nLast Name\nDate of Birth\n\n\n\n\nKendall\nGilbert\n08/16/2001\n\n\nJack\nSmith\n05/14/00\n\n\nRon\nSmith\n06/07/1999\n\n\n\n\n\n\nTo find the area of a circle use \\(\\pi r^2\\) !\n\n\n\n\\[\n\\frac{5^2}{4} \\times 7\n\\]\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n\n\nAdding a footnote is very important1\n\n\n\nThis is an example of a quote:\n\n“This is an important quote”\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\nflowchart LR\n  A[Step 1] --&gt; B[Step 2]\n  B --&gt; C{Decision}\n  C --&gt; D[Result one!]\n  C --&gt; E[Result two!]\n\n\nA Mermaid diagram\n\n\n\n\n\n\nIt is always important to cite your sources. For example, I read about assisted conversational interfaces and was able to easily cite my source (Hassani and Silva 2023)."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+  {
+    "objectID": "about.html#test",
+    "href": "about.html#test",
+    "title": "simple_quarto_website",
+    "section": "Test",
+    "text": "Test"
+  },
+  {
+    "objectID": "index.html#section-1",
+    "href": "index.html#section-1",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\n\n\nFirst item\nSecond item\nThird item\n\n\n\n\n\n\n\n\n\n\nItem A\nItem B\nItem C\n\n\n\n\n\nItem X\nItem Y\nItem Z\n\n\n\n\n\n\n\n\n\nFirst Name\nLast Name\nDate of Birth\n\n\n\n\nKendall\nGilbert\n08/16/2001\n\n\nJack\nSmith\n05/14/00\n\n\nRon\nSmith\n06/07/1999\n\n\n\n\n\n\nTo find the area of a circle use \\(\\pi r^2\\) !\n\n\n\n\\[\n\\frac{5^2}{4} \\times 7\n\\]\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n\n\nAdding a footnote is very important1\n\n\n\nThis is an example of a quote:\n\n“This is an important quote”"
+  },
+  {
+    "objectID": "index.html#bulleted-list",
+    "href": "index.html#bulleted-list",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "First item\nSecond item\nThird item"
+  },
+  {
+    "objectID": "index.html#columns",
+    "href": "index.html#columns",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "Item A\nItem B\nItem C\n\n\n\n\n\nItem X\nItem Y\nItem Z"
+  },
+  {
+    "objectID": "index.html#table",
+    "href": "index.html#table",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "First Name\nLast Name\nDate of Birth\n\n\n\n\nKendall\nGilbert\n08/16/2001\n\n\nJack\nSmith\n05/14/00\n\n\nRon\nSmith\n06/07/1999"
+  },
+  {
+    "objectID": "index.html#la-tex-equation-inline",
+    "href": "index.html#la-tex-equation-inline",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "To find the area of a circle use \\(\\pi r^2\\) !"
+  },
+  {
+    "objectID": "index.html#la-tex-equation-non-inline",
+    "href": "index.html#la-tex-equation-non-inline",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "\\[\n\\frac{5^2}{4} \\times 7\n\\]\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "simple_quarto_website",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThis is the footnote↩︎"
+  },
+  {
+    "objectID": "index.html#mermaid-diagram",
+    "href": "index.html#mermaid-diagram",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "flowchart LR\n  A[Step 1] --&gt; B[Step 2]\n  B --&gt; C{Decision}\n  C --&gt; D[Result one!]\n  C --&gt; E[Result two!]\n\n\nA Mermaid diagram"
+  },
+  {
+    "objectID": "index.html#references",
+    "href": "index.html#references",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "It is always important to cite your sources. For example, I read about assisted conversational interfaces(Hassani and Silva 2023)."
+  },
+  {
+    "objectID": "index.html#quotes",
+    "href": "index.html#quotes",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "This is an example of a quote:\n\n“This is an important quote”"
+  },
+  {
+    "objectID": "index.html#section-2",
+    "href": "index.html#section-2",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "flowchart LR\n  A[Step 1] --&gt; B[Step 2]\n  B --&gt; C{Decision}\n  C --&gt; D[Result one!]\n  C --&gt; E[Result two!]\n\n\nA Mermaid diagram\n\n\n\n\n\n\nIt is always important to cite your sources. For example, I read about assisted conversational interfaces and was able to easily cite my source (Hassani and Silva 2023)."
+  },
+  {
+    "objectID": "index.html#section-1---quarto-basics",
+    "href": "index.html#section-1---quarto-basics",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\n\n\nFirst item\nSecond item\nThird item\n\n\n\n\n\n\n\n\n\n\nItem A\nItem B\nItem C\n\n\n\n\n\nItem X\nItem Y\nItem Z\n\n\n\n\n\n\n\n\n\nFirst Name\nLast Name\nDate of Birth\n\n\n\n\nKendall\nGilbert\n08/16/2001\n\n\nJack\nSmith\n05/14/00\n\n\nRon\nSmith\n06/07/1999\n\n\n\n\n\n\nTo find the area of a circle use \\(\\pi r^2\\) !\n\n\n\n\\[\n\\frac{5^2}{4} \\times 7\n\\]\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n\n\nAdding a footnote is very important1\n\n\n\nThis is an example of a quote:\n\n“This is an important quote”"
+  },
+  {
+    "objectID": "index.html#section-3---mermaid-diagrams-and-references",
+    "href": "index.html#section-3---mermaid-diagrams-and-references",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "flowchart LR\n  A[Step 1] --&gt; B[Step 2]\n  B --&gt; C{Decision}\n  C --&gt; D[Result one!]\n  C --&gt; E[Result two!]\n\n\nA Mermaid diagram\n\n\n\n\n\n\nIt is always important to cite your sources. For example, I read about assisted conversational interfaces and was able to easily cite my source (Hassani and Silva 2023)."
+  },
+  {
+    "objectID": "about.html#section-1",
+    "href": "about.html#section-1",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+  {
+    "objectID": "about.html#section-2",
+    "href": "about.html#section-2",
+    "title": "simple_quarto_website",
+    "section": "Section 2",
+    "text": "Section 2\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+  {
+    "objectID": "about.html#python-code",
+    "href": "about.html#python-code",
+    "title": "simple_quarto_website",
+    "section": "Python Code",
+    "text": "Python Code\n\n\nimport matplotlib.pyplot as plt\nx = [1, 2, 3, 4, 5]\ny = [10, 15, 20, 25, 40]\nplt.plot(x,y)\nplt.show()"
+  },
+  {
+    "objectID": "slides/slides.html",
+    "href": "slides/slides.html",
+    "title": "Habits",
+    "section": "",
+    "text": "This is the first slide\nYou can refer to references here! (Hassani and Silva 2023)"
+  },
+  {
+    "objectID": "slides/slides.html#slide-1",
+    "href": "slides/slides.html#slide-1",
+    "title": "Habits",
+    "section": "",
+    "text": "This is the first slide\nYou can refer to references here! (Hassani and Silva 2023)"
+  },
+  {
+    "objectID": "slides/slides.html#slide-2",
+    "href": "slides/slides.html#slide-2",
+    "title": "Habits",
+    "section": "Slide 2",
+    "text": "Slide 2\nThis is the third slide with images:"
+  },
+  {
+    "objectID": "index.html#section-2---photos-and-videos",
+    "href": "index.html#section-2---photos-and-videos",
+    "title": "simple_quarto_website",
+    "section": "Section 2 - Photos and Videos",
+    "text": "Section 2 - Photos and Videos\n\nPictures / Video"
+  },
+  {
+    "objectID": "slides/slides.html#slide-3",
+    "href": "slides/slides.html#slide-3",
+    "title": "Habits",
+    "section": "Slide 3",
+    "text": "Slide 3\nThis slide has Python Code\nimport matplotlib.pyplot as plt\nx = [1, 2, 3, 4, 5]\ny = [10, 15, 20, 25, 40]\nplt.plot(x,y)\nplt.show()"
+  }
+]

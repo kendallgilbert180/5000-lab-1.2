@@ -1,0 +1,91 @@
+---
+title: "simple_quarto_website"
+bibliography: reference.bib
+---
+
+# Kendall Gilbert - First Quarto Website for DSAN 5000
+This is my first quarto website. Lab 1.2 for DSAN 5000 
+
+## Section 1 - Quarto Basics
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+### Bulleted List
+
+- First item
+- Second item
+- Third item
+
+### Columns
+::: {layout-ncol=2}
+
+### Column 1
+
+- Item A
+- Item B
+- Item C
+
+### Column 2
+
+- Item X
+- Item Y
+- Item Z
+:::
+
+### Table
+| First Name| Last Name | Date of Birth |
+|----------|----------|----------|
+| Kendall | Gilbert | 08/16/2001 |
+| Jack | Smith | 05/14/00 |
+| Ron | Smith | 06/07/1999 |
+
+### La Tex Equation (Inline)
+
+To find the area of a circle use $\pi r^2$ !
+
+### La Tex Equation (Non Inline)
+
+$$
+\frac{5^2}{4} \times 7
+$$
+
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+### Footnotes
+
+Adding a footnote is very important[^1]
+
+### Quotes 
+
+This is an example of a quote: 
+
+>"This is an important quote"
+
+## Section 2 - Photos and Videos
+
+### Pictures / Video
+![Picture of Me](picture1.jpg)
+![Georgetown](georgetown.jpg)
+{{< video https://youtu.be/f1gFmOC9JYg?feature=shared width=“800” height=“500” >}}
+
+## Section 3 - Mermaid Diagrams and References
+
+### Mermaid Diagram
+
+```{mermaid}
+%%| fig-cap: "A Mermaid diagram"
+%%| code-fold: false
+flowchart LR
+  A[Step 1] --> B[Step 2]
+  B --> C{Decision}
+  C --> D[Result one!]
+  C --> E[Result two!]
+```
+
+### References
+
+It is always important to cite your sources. For example, I read about assisted conversational interfaces and was able to easily cite my source [@2023].
+
+[^1]: This is the footnote
+
